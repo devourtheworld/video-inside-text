@@ -59,10 +59,12 @@ body{
 
 }
 
-p{
-    color: #fff;
-    opacity: 0.05;
+footer p{
     position: absolute;
     bottom: 1%;
+    left: 43%;
+    text-align: center;
+    color: #fff;
+    opacity: 0.05;
     user-select: none;
 }
